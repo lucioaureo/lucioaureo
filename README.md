@@ -1,5 +1,5 @@
 
- ## Olá, me chamo Lúcio Áureo, Sou desenvolvedor Front_End.
+ ## Olá! Eu sou o Lúcio Áureo 👋
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
